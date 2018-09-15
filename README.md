@@ -11,4 +11,6 @@
 
 ## run
 
-- python train.py
+```bash
+> python train.py
+```
